@@ -15,6 +15,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hirohitokato&margin-w=5)](https://github.com/hirohitokato/)
 
+## 📨 Contact me.
+
+**[Twitter - @hkato193](https://twitter.com/hkato193)**
+
 <!--
 **hirohitokato/hirohitokato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
