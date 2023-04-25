@@ -6,8 +6,6 @@
 
 ## 📈 Status
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/hkato193)](https://twitter.com/hkato193)
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohitokato&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hirohitokato" />
