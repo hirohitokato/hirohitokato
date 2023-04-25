@@ -2,7 +2,7 @@
 
 ## 🌱 My Skills
 
-[![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=swift,cs,py,ts,c,cpp,js,dotnet,flask,processing,git,gitlab,md,regex,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&perline=8&i=swift,cs,py,ts,c,cpp,js,dotnet,flask,processing,git,gitlab,md,regex,ros,linux,vscode,visualstudio)](https://skillicons.dev)
 
 ## 📈 Status
 
