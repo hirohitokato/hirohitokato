@@ -15,7 +15,7 @@
 
 ## 📨 Contact me.
 
-**[Twitter - @hkato193](https://twitter.com/hkato193)**
+**[X - @hkato193](https://twitter.com/hkato193)**
 
 <!--
 **hirohitokato/hirohitokato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
